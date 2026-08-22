@@ -276,8 +276,8 @@ Mis principales áreas de aprendizaje actualmente son:
 
 <div align="center">
 
-![Patatapou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patatapou\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Patatapou&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patatapou\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patatapou&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
 
 </div>
