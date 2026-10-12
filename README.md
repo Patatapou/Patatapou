@@ -1,4 +1,4 @@
-# Hola, soy Patatapou
+# Hola, soy Maik
 
 <div align="center">
 
@@ -21,8 +21,7 @@ Me interesa construir software, aprender nuevas tecnologías y entender cómo fu
 Actualmente estoy enfocado en:
 
 * Desarrollo de software
-* Inteligencia artificial
-* Modelos de IA locales
+* Inteligencia artificial y Modelos de IA locales
 * Desarrollo con C++ y Qt
 * Desarrollo Android
 * Bases de datos
@@ -51,19 +50,12 @@ Mi objetivo es seguir creciendo como desarrollador y convertir cada proyecto en 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
 
 ### Frameworks y plataformas
-
 * Android
-* Android Studio
-* .NET
 * Qt
-* Pygame
-* ZXing
 * Firebase
 * Apache
-* XAMPP
 
 ### Bases de datos
-
 * MySQL
 * Oracle
 * SQLite
@@ -71,17 +63,11 @@ Mi objetivo es seguir creciendo como desarrollador y convertir cada proyecto en 
 ### Sistemas y herramientas
 
 * Linux
-* Ubuntu
-* Windows
-* WSL
-* Kali Linux
-* Git
-* GitHub
+* Git / GitHub
 * VS Code
 * NetBeans
 * Android Studio
 * Qt Creator
-* FL Studio
 
 ---
 
@@ -93,57 +79,9 @@ He trabajado con:
 
 * Ollama
 * Qwen
-* Modelos de lenguaje locales
-* Inferencia mediante CPU y GPU
-* NVIDIA CUDA
-* Linux
 * Servidores locales de IA
 * Herramientas de programación asistida por IA
-* GitHub Copilot
 * OpenCode
-
-También estoy explorando cómo integrar modelos locales con mis herramientas de desarrollo para reducir dependencia de servicios externos y tener mayor control sobre mis entornos de trabajo.
-
----
-
-## Desarrollo Android
-
-He desarrollado aplicaciones Android utilizando Java y SQLite.
-
-Uno de mis proyectos consiste en una aplicación de tienda con:
-
-* Base de datos SQLite
-* Listado de productos
-* GridView
-* Fragmentos
-* TabLayout
-* ViewPager2
-* NestedScrollView
-* Escáner de códigos de barras
-* ZXing
-* Integración con bases de datos MySQL mediante servidor
-
-También he trabajado con Firebase y PHP para proyectos que requieren comunicación entre aplicaciones y servidores.
-
----
-
-## Bases de datos
-
-Tengo experiencia trabajando con:
-
-* MySQL
-* SQLite
-* Oracle
-* Firebase
-
-He trabajado en diseño de esquemas, relaciones entre tablas, claves foráneas y conexión entre aplicaciones y bases de datos.
-
-También he utilizado:
-
-* phpMyAdmin
-* XAMPP
-* Apache
-* PHP
 
 ---
 
@@ -165,42 +103,6 @@ Entre las actividades que he realizado están:
 * Automatización
 
 Esta experiencia me ha permitido conocer tanto el aspecto técnico como el operativo de una empresa.
-
----
-
-## Formación académica
-
-### Ingeniería en Sistemas Computacionales
-
-Tecnológico Nacional de México
-Campus Laguna
-
-Durante mi formación he trabajado en áreas como:
-
-* Programación
-* Sistemas operativos
-* Bases de datos
-* Desarrollo Android
-* Desarrollo web
-* Métodos numéricos
-* C++
-* Qt
-* Electrónica digital
-* Arquitectura de computadoras
-* Investigación
-* Inteligencia artificial
-
-También he realizado prácticas relacionadas con:
-
-* Compuertas lógicas
-* Codificadores
-* Decodificadores
-* Multiplexores
-* Demultiplexores
-* Flip-Flops
-* Registros
-* ALU
-* Memorias
 
 ---
 
@@ -227,48 +129,6 @@ Entorno Linux para ejecutar modelos de lenguaje localmente mediante Ollama.
 ### 🤖 Programación asistida por IA
 
 Experimentación con GitHub Copilot, OpenCode y modelos locales para mejorar el flujo de desarrollo.
-
----
-
-## Linux
-
-Linux forma parte importante de mis experimentos técnicos.
-
-He trabajado con:
-
-* Ubuntu
-* Debian
-* Kubuntu
-* Linux Mint
-* Kali Linux
-* WSL
-* Bash
-* SSH
-* NVIDIA drivers
-* CUDA
-* Ollama
-
-También he realizado pruebas de rendimiento de modelos locales y monitoreo de recursos mediante herramientas como `nvidia-smi`.
-
----
-
-## Actualmente aprendiendo
-
-Mis principales áreas de aprendizaje actualmente son:
-
-* Inteligencia artificial
-* Modelos de lenguaje
-* IA local
-* C++
-* Python
-* Linux
-* Automatización
-* Desarrollo de software
-* Redes
-* Herramientas de programación asistida por IA
-* Inglés
-* Arquitectura de sistemas
-* Desarrollo de proyectos completos
 
 ---
 
