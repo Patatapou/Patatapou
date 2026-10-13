@@ -1,143 +1,137 @@
-# Hola, soy Maik
-
 <div align="center">
 
-### Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador | Entusiasta de la IA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola,%20soy%20Maik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Desarrollador%20%7C%20Entusiasta%20de%20la%20IA&descAlignY=60&descSize=16" alt="Banner" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Patatapou-181717?style=for-the-badge\&logo=github)](https://github.com/Patatapou)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)](https://developer.android.com/)
+<a href="https://github.com/Patatapou">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Construyendo+software+desde+los+fundamentos;IA+local+con+Ollama+y+Qwen;C%2B%2B+%7C+Qt+%7C+Android+%7C+Linux;Cada+proyecto+es+una+oportunidad+para+aprender" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Patatapou&color=3DDC84&style=for-the-badge&label=VISITAS)
+![Followers](https://img.shields.io/github/followers/Patatapou?style=for-the-badge&logo=github&color=181717)
 
 </div>
 
+---
+
 ## Sobre mí
 
-Soy estudiante de Ingeniería en Sistemas Computacionales en el Tecnológico Nacional de México, Campus Laguna.
+Estudiante de **Ingeniería en Sistemas Computacionales** en el **Tecnológico Nacional de México, Campus Laguna**.
 
-Me interesa construir software, aprender nuevas tecnologías y entender cómo funcionan los sistemas desde sus fundamentos.
+Me interesa construir software, aprender nuevas tecnologías y entender cómo funcionan los sistemas desde sus fundamentos. Mi objetivo es convertir cada proyecto en una oportunidad para aprender algo nuevo.
 
-Actualmente estoy enfocado en:
+<details>
+<summary><b>Mas</b></summary>
+<div align="center">
 
-* Desarrollo de software
-* Inteligencia artificial y Modelos de IA locales
-* Desarrollo con C++ y Qt
-* Desarrollo Android
-* Bases de datos
-* Sistemas Linux
-* Automatización
-* Desarrollo web
-* Investigación sobre IA aplicada a la educación
-* Herramientas de IA para programación
+| 💻 Software | 🤖 IA local | ⚙️ C++ y Qt | 📱 Android |
+|:---:|:---:|:---:|:---:|
+| Desarrollo de software | Modelos de IA locales | Aplicaciones de escritorio | Apps móviles |
 
-Mi objetivo es seguir creciendo como desarrollador y convertir cada proyecto en una oportunidad para aprender algo nuevo.
+| 🗄️ Bases de datos | 🐧 Linux | 🔁 Automatización | 🎓 IA + educación |
+|:---:|:---:|:---:|:---:|
+| Diseño y consultas | Sistemas y servidores | Scripts y flujos | Investigación aplicada |
 
----
-
-## Tecnologías y herramientas
-
-### Lenguajes
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-
-### Frameworks y plataformas
-* Android
-* Qt
-* Firebase
-* Apache
-
-### Bases de datos
-* MySQL
-* Oracle
-* SQLite
-
-### Sistemas y herramientas
-
-* Linux
-* Git / GitHub
-* VS Code
-* NetBeans
-* Android Studio
-* Qt Creator
+</div>
+</details>
 
 ---
 
-## Inteligencia artificial
+## Lenguajes - Tecnologías - Herramientas
 
-Uno de mis intereses actuales es ejecutar modelos de inteligencia artificial localmente.
 
-He trabajado con:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,cs,php,js,html,css&perline=8" alt="Lenguajes" />
+</p>
 
-* Ollama
-* Qwen
-* Servidores locales de IA
-* Herramientas de programación asistida por IA
-* OpenCode
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,qt,firebase,apache&perline=8" alt="Frameworks" />
+</p>
 
-## Experiencia profesional
 
-He trabajado en una empresa dedicada a productos de control eléctrico y automatización.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8" alt="Bases de datos" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
 
-Entre las actividades que he realizado están:
 
-* Inventario
-* Desarrollo de Página Web 
-* Empaque de productos
-* Atención a clientes
-* Ventas de mostrador
-* Ventas en línea
-* Instalaciones eléctricas
-* Reparaciones
-* Productos de control industrial
-* Automatización
-
-Esta experiencia me ha permitido conocer tanto el aspecto técnico como el operativo de una empresa.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,netbeans,androidstudio&perline=8" alt="Herramientas" />
+</p>
 
 ---
 
-## Proyectos y experimentos
+Uno de mis intereses actuales es ejecutar modelos de IA **localmente**.
 
-Algunos de los proyectos y áreas en los que he trabajado:
-
-### 📱 Aplicación de tienda
-
-Aplicación Android con SQLite, escaneo de códigos y administración de productos.
-
-### 🗄️ Proyectos con bases de datos
-
-Diseño de bases de datos MySQL para proyectos con múltiples tablas y relaciones.
-
-### 🧊 Transformaciones 3D
-
-Proyecto en C++ y Qt para representar y transformar figuras tridimensionales.
-
-### 💻 Servidor local de IA
-
-Entorno Linux para ejecutar modelos de lenguaje localmente mediante Ollama.
-
-### 🤖 Programación asistida por IA
-
-Experimentación con GitHub Copilot, OpenCode y modelos locales para mejorar el flujo de desarrollo.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/OpenCode-1F2937?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Servidores%20locales%20de%20IA-0F766E?style=for-the-badge&logo=linux&logoColor=white" alt="Servidores locales de IA" />
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💼 Experiencia profesional
+
+Trabajé en una empresa de **productos de control eléctrico y automatización**, lo que me permitió conocer tanto el aspecto técnico como el operativo de un negocio.
+
+<details>
+<summary><b>Ver actividades realizadas</b></summary>
+
+<br/>
+
+| Área técnica | Área operativa |
+|---|---|
+| 🌐 Desarrollo de página web | 📦 Inventario y empaque |
+| ⚡ Instalaciones eléctricas | 🧾 Ventas de mostrador |
+| 🔧 Reparaciones | 🛒 Ventas en línea |
+| 🏭 Control industrial y automatización | 🤝 Atención a clientes |
+
+</details>
+
+---
+
+
+<details>
+<summary><b>Otras áreas en las que he trabajado</b></summary>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Patatapou&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+| 📱 App de tienda | 🧊 Transformaciones 3D | 💻 Servidor local de IA |
+|:---:|:---:|:---:|
+| Android + SQLite, escaneo de códigos y administración de productos | C++ y Qt para representar y transformar figuras 3D | Entorno Linux con Ollama para correr modelos de lenguaje |
+| ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Ollama](https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white) |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patatapou&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+</div>
+</details>
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Patatapou&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patatapou&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Patatapou&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Conecta conmigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-Patatapou-181717?style=for-the-badge&logo=github)](https://github.com/Patatapou)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
 
 </div>
