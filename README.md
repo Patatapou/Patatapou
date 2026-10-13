@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Patatapou&color=3DDC84&style=for-the-badge&label=VISITAS)
 ![Followers](https://img.shields.io/github/followers/Patatapou?style=for-the-badge&logo=github&color=181717)
 
 </div>
